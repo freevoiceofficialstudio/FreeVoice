@@ -1,0 +1,7 @@
+{
+  "name": "Free Voice 3",
+  "description": "Professional AI voice-changing platform for recording, uploading, and real-time voice conversion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
